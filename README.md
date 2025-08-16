@@ -1,6 +1,6 @@
 # Hi, I'm Zaid 👋
 
-💻 Aspiring Backend & AI Developer  
+💻 Aspiring Data Engineer and Data Architect.  
 🎓 IT Graduate | Learning Node.js, Express.js, Python, SQL, and AI  
 🥊 Muay Thai trainee who also builds cool things with code
 
@@ -10,16 +10,18 @@
 
 - Programming: **Python**, **JavaScript**
 - Backend: **Node.js**, **Express.js**
-- Database: **SQL**, **MongoDB**
+- Database: **SQL Server**, **My SQL**
 - Tools: **Git**, **GitHub**, **VS Code**
 
 ---
 
 ## 📚 Currently Learning
 
-- 🤖 AI/ML Concepts & Projects  
+- Data Engineering.
+- 🤖 AI/ML Concepts & Projects 
 - 🔧 Advanced Backend Development  
 - ☁️ Cloud (Basics of AWS/Azure)
+  
 
 ---
 
